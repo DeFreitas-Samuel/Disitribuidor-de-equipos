@@ -2,7 +2,7 @@
 
 The user must have installed .NET framework runtime [NET FRAMEWORK](https://dotnet.microsoft.com/download/dotnet-framework/net48) then
 it must download the project from github. After that the user must open the cmd console of its computer an position the console inside the 
-folder of where program.cs is; then the user must type the following command: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe Progam.cs
+folder of where program.cs is; then the user must type the following command: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe Program.cs
 
 # How to use
 The way to use this program is really simple. Once compiled the user must execute the program; and this one will prompt the user to 
