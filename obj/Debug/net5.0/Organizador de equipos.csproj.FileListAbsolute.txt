@@ -1,0 +1,16 @@
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\Organizador de equipos.csprojAssemblyReference.cache
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\Organizador de equipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\Organizador de equipos.AssemblyInfoInputs.cache
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\Organizador de equipos.AssemblyInfo.cs
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\Organizador de equipos.csproj.CoreCompileInputs.cache
+C:\Users\defre\Desktop\Organizador de equipos\bin\Debug\net5.0\Organizador de equipos.exe
+C:\Users\defre\Desktop\Organizador de equipos\bin\Debug\net5.0\Organizador de equipos.deps.json
+C:\Users\defre\Desktop\Organizador de equipos\bin\Debug\net5.0\Organizador de equipos.runtimeconfig.json
+C:\Users\defre\Desktop\Organizador de equipos\bin\Debug\net5.0\Organizador de equipos.runtimeconfig.dev.json
+C:\Users\defre\Desktop\Organizador de equipos\bin\Debug\net5.0\Organizador de equipos.dll
+C:\Users\defre\Desktop\Organizador de equipos\bin\Debug\net5.0\ref\Organizador de equipos.dll
+C:\Users\defre\Desktop\Organizador de equipos\bin\Debug\net5.0\Organizador de equipos.pdb
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\Organizador de equipos.dll
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\ref\Organizador de equipos.dll
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\Organizador de equipos.pdb
+C:\Users\defre\Desktop\Organizador de equipos\obj\Debug\net5.0\Organizador de equipos.genruntimeconfig.cache
