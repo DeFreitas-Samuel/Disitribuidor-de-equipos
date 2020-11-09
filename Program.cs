@@ -34,10 +34,10 @@ namespace Organizador_de_equipos
             int miembroSobrantes = (estudiantes.Count % nroDeEquipos);
             int temaSobrantes = (temas.Count % nroDeEquipos);
 
-            Console.WriteLine($"Este es el numero de integrantes que deberia tener cada equipo: {miembroPorEquipoSinSobrante}");
-            Console.WriteLine($"Este es el numero de temas que deberia tener cada equipo: {temasPorEquipoSinSobrante}");
-            Console.WriteLine($"Este es el numero de personas que sobran: {miembroSobrantes}");
-            Console.WriteLine($"Este es el numero de temas que sobran: {temaSobrantes}");
+            Console.WriteLine("Este es el numero de integrantes que deberia tener cada equipo: " + miembroPorEquipoSinSobrante);
+            Console.WriteLine("Este es el numero de temas que deberia tener cada equipo:" + temasPorEquipoSinSobrante);
+            Console.WriteLine("Este es el numero de personas que sobran:" + miembroSobrantes);
+            Console.WriteLine("Este es el numero de temas que sobran:" + temaSobrantes);
 
 
             estudiantes = RandomizarLista(random, estudiantes);
@@ -71,17 +71,17 @@ namespace Organizador_de_equipos
                     temaSobrantes--;
                 }
 
-                equiposDistribuidos.Add($"Equipos {i+1} Integrantes: {miembrosPorEquipoReal} Temas: {temasPorEquipoReal}");
+                equiposDistribuidos.Add("Equipos" + i+1 + "Integrantes: " + miembrosPorEquipoReal + "Temas: " + temasPorEquipoReal);
                 equiposDistribuidos.Add("\tNombre de los Integrantes:");
                 for (int j = 0; j < miembrosPorEquipoReal; j++)
                 {
-                    equiposDistribuidos.Add($"\t\t{estudiantes[0]}");
+                    equiposDistribuidos.Add("\t\t" + estudiantes[0]);
                     estudiantes.RemoveAt(0);
                 }
                 equiposDistribuidos.Add("\tTemas: ");
                 for (int k = 0; k < temasPorEquipoReal; k++)
                 {
-                    equiposDistribuidos.Add($"\t\t{temas[0]}");
+                    equiposDistribuidos.Add("\t\t" + temas[0]);
                     temas.RemoveAt(0);
                 }
             }
